@@ -36,9 +36,7 @@ public class Main {
          {
             zone = (int) deliveryDistance / 40;
         }
-
       System.out.println("Потребуется дней: " + (deliveryTime+zone));
-
     }
     public static void task5() {
         int monthNumber = 0;
